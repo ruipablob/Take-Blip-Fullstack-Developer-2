@@ -1,0 +1,32 @@
+namespace  DIO.Serie
+{
+    public enum Genero
+    {
+        Acao = 1,
+
+        Aventura = 2,
+
+        Comedia = 3,
+
+        Documentario = 4,
+
+        Drama = 5,
+
+        Policial = 6,
+
+        Faroeste = 7,
+
+        Fantasia = 8,
+
+        Sci_Fi = 9,
+
+        Musical = 10,
+
+        Romance = 11,
+
+        Suspense = 12,
+
+        Terror = 13,
+
+    }
+}
